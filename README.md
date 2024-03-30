@@ -1,16 +1,11 @@
 <h1>Análisis de Transformación Socioespacial por AGEBS en Zona Norte de Ensenada</h1>
-<p>Este repositorio contiene, en el folder <b>transf-socioespacial_data-mining-2023-1</b>, el proyecto "Análisis de Transformación Socioespacial por AGEBS en Zona Norte de Ensenada usando Minería de Datos", realizado por Maximiliano Vaca Montejano de la Facultad de Ciencias de la Universidad Autónoma de Baja California (UABC), ubicada en Ensenada, Baja California.</p>
+<p>Este repositorio contiene, en el folder <b>transf-socioespacial_data-mining-2023-1</b>, mi proyecto final de la materia <b>Minería de datos</b>: "Análisis de Transformación Socioespacial por AGEBS en Zona Norte de Ensenada usando Minería de Datos", realizado por Maximiliano Vaca Montejano de la Facultad de Ciencias de la Universidad Autónoma de Baja California (UABC), ubicada en Ensenada, Baja California.</p>
 
 <p>Los resultados obtenidos serán presentados en el <b>9o. Congreso Internacional de Sociología (CIS). Crisis y nuevas realidades. Desafíos Teóricos, Empíricos y Metodológicos para la Sociología.</b> </p>
-<ul>
-  <li>21 al 24 de mayo de 2024</li>
-  <li>Ensenada, Baja California, México</li>
-  <li>congresodesociologia@uabc.edu.mx</li>
-</ul>
 
-![image](https://github.com/MaximilianoVM/AGEBS-Ensenada/assets/100452591/f169d4bc-f2ed-47d9-a2c3-521207483280){: width="200" height="100"}
+<img src="https://github.com/MaximilianoVM/AGEBS-Ensenada/assets/100452591/f169d4bc-f2ed-47d9-a2c3-521207483280" alt="image" height="370">
 
-<p>Otro tipo de analisis esta en proceso como proyecto para la materia <b>Modelos Lineales con R</b>, para concluir en junio de este año 2024</p>
+<p>Otro tipo de analisis esta en proceso en el folder <b>untitled_MLR-2024-1</b> como proyecto para la materia <b>Modelos Lineales con R</b>, para concluir en junio de este año 2024</p>
 
 <h2>Resumen</h2>
 <p>Este proyecto aborda el fenómeno de gentrificación urbana en la zona norte de Ensenada mediante el análisis de las Áreas Geoestadísticas Básicas Urbanas (AGEBS) utilizando técnicas de minería de datos. El objetivo es identificar patrones de transformación socioespacial que puedan ser útiles para la formulación de políticas públicas y acciones específicas.</p>
@@ -31,7 +26,9 @@
 <p>Para ejecutar el proyecto, se debe contar con los datos del INEGI y los archivos de código correspondientes. Se recomienda seguir la metodología descrita en el repositorio para replicar los resultados.</p>
 
 <h3>Autores</h3>
-<p>Maximiliano Vaca Montejano<br>Facultad de Ciencias, UABC</p>
-
+<ul>
+  <li>Maximiliano Vaca Montejano</li>
+  <li>Dr. Luis Pellegrin, https://sites.google.com/view/luispellegrin/home </li>
+</ul>
 <h3>Contacto</h3>
 <p>Para más información, contactar a Maximiliano Vaca Montejano a través del correo electrónico maximiliano.vaca@uabc.edu.mx.</p>
