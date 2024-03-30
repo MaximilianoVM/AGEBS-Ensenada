@@ -8,7 +8,7 @@
   <li>congresodesociologia@uabc.edu.mx</li>
 </ul>
 
-![image](https://github.com/MaximilianoVM/AGEBS-Ensenada/assets/100452591/f169d4bc-f2ed-47d9-a2c3-521207483280)
+![image](https://github.com/MaximilianoVM/AGEBS-Ensenada/assets/100452591/f169d4bc-f2ed-47d9-a2c3-521207483280){: width="200" height="100"}
 
 <p>Otro tipo de analisis esta en proceso como proyecto para la materia <b>Modelos Lineales con R</b>, para concluir en junio de este año 2024</p>
 
