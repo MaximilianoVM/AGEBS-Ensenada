@@ -16,7 +16,7 @@
 <ul>
   <li><strong>Introducción:</strong> Define la gentrificación y su problemática, destacando la falta de estudios cuantitativos en la región de América Latina.</li>
   <li><strong>Propuesta:</strong> Describe la propuesta del proyecto, centrada en el análisis de la gentrificación en Ensenada utilizando datos del INEGI.</li>
-  <li><strong>Datos:</strong> Detalla la fuente de datos utilizada, que son los censos poblacionales de 2010 y 2020 del INEGI, y la unidad de análisis, que son las AGEBS.</li>
+  <li><strong>Datos:</strong> Detalla la fuente de datos utilizada, que son los censos poblacionales de 2010 y 2020 del INEGI, y la unidad de análisis, que son las AGEBS. https://www.inegi.org.mx/app/scitel/Default?ev=10</li>
   <li><strong>Trabajos Relacionados:</strong> <i>Bournazou Marcou, E. D. (2015). Cambios socioterritoriales e indicios de gentrificación: Un método para su medición. Revista de Urbanismo, 47. </i></li>
   <li><strong>Metodología:</strong> Identificación de variables relevantes, recolección y reducción de datos, clustering de AGEBS e interpretación de resultados.</li>
   <li><strong>Experimentación:</strong> Preprocesamiento de datos y la aplicación del algoritmo de clustering K-means.</li>
