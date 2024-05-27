@@ -3,9 +3,9 @@
 
 <p>Los resultados obtenidos serán presentados en el <b>9o. Congreso Internacional de Sociología (CIS). Crisis y nuevas realidades. Desafíos Teóricos, Empíricos y Metodológicos para la Sociología.</b> </p>
 
-<img src="https://github.com/MaximilianoVM/AGEBS-Ensenada/assets/100452591/f169d4bc-f2ed-47d9-a2c3-521207483280" alt="image" height="370">
+<img src="https://github.com/MaximilianoVM/AGEBS-Ensenada/assets/100452591/f169d4bc-f2ed-47d9-a2c3-521207483280" alt="image" height="300">
 
-<img src="https://github.com/MaximilianoVM/AGEBS-Ensenada/assets/100452591/767bb7c0-2fa5-4fda-9df7-43d587e0ab22" alt="image" height="370">
+<img src="https://github.com/MaximilianoVM/AGEBS-Ensenada/assets/100452591/767bb7c0-2fa5-4fda-9df7-43d587e0ab22" alt="image" height="300">
 
 <img src="https://github.com/MaximilianoVM/AGEBS-Ensenada/assets/100452591/b75fd9ec-26df-4f66-b834-35a564556d07" alt="image" height="300">
 
