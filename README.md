@@ -5,6 +5,11 @@
 
 <img src="https://github.com/MaximilianoVM/AGEBS-Ensenada/assets/100452591/f169d4bc-f2ed-47d9-a2c3-521207483280" alt="image" height="370">
 
+<img src="https://github.com/MaximilianoVM/AGEBS-Ensenada/assets/100452591/767bb7c0-2fa5-4fda-9df7-43d587e0ab22" alt="image" height="370">
+
+<img src="https://github.com/MaximilianoVM/AGEBS-Ensenada/assets/100452591/b75fd9ec-26df-4f66-b834-35a564556d07" alt="image" height="300">
+
+
 <p>Otro tipo de analisis esta en proceso en el folder <b>untitled_MLR-2024-1</b> como proyecto para la materia <b>Modelos Lineales con R</b>, para concluir en junio de este año 2024</p>
 
 <h2>Resumen</h2>
