@@ -28,7 +28,7 @@
 <h3>Autores</h3>
 <ul>
   <li>Maximiliano Vaca Montejano</li>
-  <li>Dr. Luis Pellegrin, https://sites.google.com/view/luispellegrin/home (transf-socioespacial_data-mining-2023-1)</li>
+  <li>Dr. Luis Pellegrin, https://sites.google.com/view/luispellegrin/home (en transf-socioespacial_data-mining-2023-1)</li>
 </ul>
 <h3>Contacto</h3>
 <p>Para más información, contactar a Maximiliano Vaca Montejano a través del correo electrónico maximiliano.vaca@uabc.edu.mx.</p>
